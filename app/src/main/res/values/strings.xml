@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android_7</string>
+    <string name="get">GET</string>
+    <string name="close_get">CLOSE GET</string>
+    <string name="close_post">CLOSE POST</string>
+    <string name="post">POST</string>
+    <string name="name">NAME</string>
+    <string name="job">JOB</string>
+    <string name="put">PUT</string>
+    <string name="close_put">CLOSE PUT</string>
+</resources>
